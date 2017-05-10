@@ -18,7 +18,8 @@
 .jumbo-mdc::after {
     content: "";
     background-attachment: fixed;
-    background-image: url('/img/waterfall.png'); 
+    //background-image: url('/img/waterfall.png');
+    background-image: url('/img/mvlogo.jpg'); 
     background-repeat: no-repeat;
     background-position: 50% 0;
 

@@ -7,9 +7,6 @@ body {
 }
 
 .loading {
-    background: url('/img/loading-sun.gif') no-repeat;
-    top: 50%;
-    transform: translateY(70%);
 }
 
 .loaded {
